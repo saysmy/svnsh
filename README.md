@@ -1,6 +1,13 @@
 # svnsh
 shell命令批量添加提交svn文件
 
+## 增加参数支持
+
+```
+./svn.sh 'add log'
+```
+
+
 ```
 #!/usr/bin/env bash
 
